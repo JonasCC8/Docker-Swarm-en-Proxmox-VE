@@ -141,6 +141,7 @@ docker stack deploy -c docker-compose.yml mystack
 ## 🧑‍💻 Autor
 
 Jonas Carrillo Carballo
+
 Cloud & Infrastructure Engineer
 
 ---
